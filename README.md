@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ryan Waweru  
-🔗 **Portfolio:** [ryan-gitau.vercel.app]((https://ryan-gitau.vercel.app/))  
+🔗 **Portfolio:**(https://ryan-gitau.vercel.app/))  
 👀 I’m passionate about software development, AI, cloud computing, and building real-world tech solutions.  
 💻 I specialize in backend development, system design, and cloud architecture, with experience in Python, JavaScript/TypeScript, and modern frameworks.  
 🤝 I collaborate on open-source backend projects, AI-powered tools, and innovative solutions that drive real-world impact.  
