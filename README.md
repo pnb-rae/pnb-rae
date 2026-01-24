@@ -8,5 +8,5 @@
 ⚡ Fun fact: I’m also a DJ and entrepreneur, blending tech, fashion, and music through my brand *Styles and Tunes*.  
 
 ### 🛠 Tech Stack  
-`Python` • `JavaScript` • `TypeScript` • `React` • `Vite` • `Tailwind CSS` • `Firebase` • `Firestore` • `Node.js` • `OpenAI API` • `Cloud Platforms (Vercel, Firebase)`
+`Python` • `JavaScript` • `TypeScript` • `React` • `Vite` • `Tailwind CSS` • `Firebase` • `Firestore` • `Node.js` • `OpenAI API` • `Cloud Platforms (Vercel, Firebase)` • `Elixir` 
 
