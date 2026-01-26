@@ -35,10 +35,6 @@ Email: ryanwaweru475@gmail.com
 ---
 ### ☁️ Cloud & Tools
 
-<p align="left">
-  <a href="https://aws.amazon.com/" title="AWS">
-    <img src="https://cdn.simpleicons.org/amazonaws" width="40" height="40"/>
-  </a>
   <a href="https://cloud.google.com/" title="Google Cloud">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
   </a>
