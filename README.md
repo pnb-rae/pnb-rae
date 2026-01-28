@@ -44,8 +44,8 @@ Email: ryanwaweru475@gmail.com
   <a href="https://git-scm.com/" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   </a>
- <a href="https://github.com/" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+<a href="https://github.com/pnb-rae" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: invert(100%);" alt="GitHub" />
 </a>
 
 
