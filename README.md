@@ -11,7 +11,7 @@
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/ryan-waweru/) •  
 [Instagram](https://www.instagram.com/pnb_rae/) •  
- ryanwaweru475@gmail.com  
+ ryanwaweru475@gmail.com •  
 
 😄 Pronouns: he/him  
 ⚡ Fun fact: I’m also a DJ and entrepreneur, blending tech, fashion, and music through my brand *Styles and Tunes*.  
