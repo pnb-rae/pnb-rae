@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 # 👋 Hi, I’m Ryan Waweru  
 
 🔗 **Portfolio:** https://ryan-gitau.vercel.app/  
@@ -11,7 +13,7 @@
 📫 **How to reach me:**  
 [LinkedIn](https://www.linkedin.com/in/ryan-waweru/) •  
 [Instagram](https://www.instagram.com/pnb_rae/) •  
- ryanwaweru475@gmail.com •  
+ryanwaweru475@gmail.com  
 
 😄 Pronouns: he/him  
 ⚡ Fun fact: I’m also a DJ and entrepreneur, blending tech, fashion, and music through my brand *Styles and Tunes*.  
@@ -33,19 +35,18 @@
 </p>
 
 ---
+
 ### ☁️ Cloud & Tools
 
-  <a href="https://cloud.google.com/" title="Google Cloud">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" title="Firebase">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
+<a href="https://cloud.google.com/" title="Google Cloud">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" title="Firebase">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</a>
 <a href="https://github.com/pnb-rae" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: invert(100%);" alt="GitHub" />
 </a>
-
-
